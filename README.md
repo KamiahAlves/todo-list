@@ -23,7 +23,7 @@ Não há pré-requisitos específicos para executar este projeto. Apenas abra o 
 
 ## Capturas de Tela
 
-![image]()
+![image](https://github.com/KamiahAlves/todo-list/blob/main/img/2024-02-02%2018-18-57.gif)
 
 ## 🚀 Futuras atualizações
 
