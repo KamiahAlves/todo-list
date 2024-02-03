@@ -12,7 +12,7 @@ O código JavaScript manipula dinamicamente a DOM, permitindo a adição de tare
 
 ## Como Usar
 
-1. Abra o arquivo `index.html` em um navegador da web.
+1. Acesse o link em um navegador da web [To-Do List](https://kamiahalves.github.io/todo-list/) 🖱️
 2. Você verá uma caixa de entrada para adicionar suas tarefas e um botão "Add" para incluir uma nova tarefa na lista.
 3. Cada item na lista pode ser marcado como concluído clicando nele. Clique novamente para desmarcar.
 4. Cada item também possui um botão "X" à direita para removê-lo da lista.
